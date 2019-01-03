@@ -2,7 +2,7 @@
 //  JJCollectionViewLayout.h
 //  SpringCollectionView
 //
-//  Created by 王俊杰 on 2019/1/3.
+//  Created by wjj on 2019/1/3.
 //  Copyright © 2019 wjj. All rights reserved.
 //
 
